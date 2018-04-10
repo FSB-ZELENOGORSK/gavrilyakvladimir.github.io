@@ -66,7 +66,7 @@
       </section>
       <footer>
         
-        <p><small>Информация предоставлена Управлением ФСБ по Красноярскому краю <a href="http://www.fsb.ru/">ФСБ РОССИИ"</a></small></p>
+        <p><small>Информация предоставлена Управлением ФСБ по Красноярскому краю <a href="http://www.fsb.ru/">ФСБ РОССИИ</a></small></p>
       </footer>
     </div>
     <script src="/assets/js/scale.fix.js"></script>
