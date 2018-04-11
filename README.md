@@ -3,6 +3,22 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "УФСБ по Красноярскому краю в городе Зеленогорске",
+  "image" : "https://user-images.githubusercontent.com/38211135/38612517-23c6b014-3db1-11e8-8ca5-8ac9523db759.gif",
+  "telephone" : "+7 (39169) 9-26-82",
+  "address" : {
+    "@type" : "PostalAddress",
+    "streetAddress" : "Первомайская 8 а",
+    "addressLocality" : "Зеленогорск",
+    "addressCountry" : "Россия",
+    "postalCode" : "663690"
+  }
+}
+</script>
 
 <!-- Begin Jekyll SEO tag v2.4.0 -->
 <title>Гавриляк Владимир Олегович | Сотрудник отдела в г. Зеленогорске УФСБ России по Красноярскому краю. Оперуполномоченный Гавриляк Владимир Олегович.</title>
