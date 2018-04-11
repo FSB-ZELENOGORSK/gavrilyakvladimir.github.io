@@ -1,5 +1,6 @@
 <html lang="ru-RU">
   <head>
+    <meta name="yandex-verification" content="f24ad82e32cadb32" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
